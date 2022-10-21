@@ -50,7 +50,7 @@ export default defineComponent({
     const tableOptions = {
       nameLabelHeader: 'Имя',
       phoneLabelHeader: 'Телефон',
-      removeButtonLabel: 'Remove',
+      removeButtonLabel: 'Удалить',
       removeColumnWidth: '85',
     };
 
