@@ -84,8 +84,8 @@ export default defineComponent({
       labelPhoneItem: 'Телефон',
       labelChiefItem: 'Начальник',
       selectChiefPlaceholder: 'Выберити начальника',
-      buttonCancelLabel: 'Cancel',
-      buttonConfirmLabel: 'Confirm',
+      buttonCancelLabel: 'Отмена',
+      buttonConfirmLabel: 'Подтвердить',
     };
 
     const usersStorageManager = UsersStorageManager.getInstance();
