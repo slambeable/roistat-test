@@ -1,5 +1,11 @@
 # roistat-test
 
+## Description
+Interactive table with the ability to add and remove users.
+
+## GitHub Pages
+[See for an example](https://slambeable.github.io/roistat-test/).
+
 ## Project setup
 ```
 npm install
